@@ -11,6 +11,7 @@
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li>test</li>
+
       <li>
         <a
           href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
